@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Sandro
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:f4tb0y@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kala13x/)
+
+I'm a Software Engineer with 10 years of experience in software development and maintenance. I'm skilled in C/C++ (POSIX, STL) and have deep experience in Linux/Unix development, WinAPI, multithreading, socket programming, and streaming protocols. I'm an open-source enthusiast, love low-level languages, and enjoy writing code. During my career, I have worked with many other programming languages like Rust, Python, C#, JS, Perl, Lua, etc. 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kala13x&theme=gruvbox_duo&hide_border=true)](https://github.com/kala13x)
+
+[![GitHub Statistics](https://raw.githubusercontent.com/kala13x/github-stats-transparent/output/generated/overview.svg)](https://github.com/kala13x)
+[![GitHub Top Languages](https://raw.githubusercontent.com/kala13x/github-stats-transparent/output/generated/languages.svg)](https://github.com/kala13x)
 
 <!--
 **kala13x/kala13x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
