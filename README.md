@@ -5,10 +5,14 @@
 
 A Software Engineer specializing in C/C++ and Linux/Unix development with more than a decade of experience. Demonstrated prowess in multithreading, socket programming, and the implementation of streaming protocols. An open-source enthusiast who likes low-level languages and enjoys writing code. Proficient in an array of programming languages, including but not limited to Rust, Python, Go, C#, TypeScript, Perl, and Lua.
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kala13x&theme=gruvbox_duo&hide_border=true)](https://github.com/kala13x)
 
 [![GitHub Statistics](https://raw.githubusercontent.com/kala13x/github-stats-transparent/output/generated/overview.svg)](https://github.com/kala13x)
 [![GitHub Top Languages](https://raw.githubusercontent.com/kala13x/github-stats-transparent/output/generated/languages.svg)](https://github.com/kala13x)
+
+</div>
 
 <!--
 **kala13x/kala13x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
